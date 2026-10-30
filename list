@@ -390,9 +390,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="2 INDO CH",RTV (D)
 https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="RajawaliTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="2 INDO CH",RTV (T)
-http://202.150.161.212:5000/live/channel23/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NusantaraTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/npPL9VlWMJ5owmeupR7ucPjdGl4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7432/bfecbc.png" group-title="2 INDO CH",Nusantara TV (CF)
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
